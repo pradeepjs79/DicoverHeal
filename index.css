@@ -1,0 +1,74 @@
+body{
+ margin: 0;
+ padding: 0;
+ background-image:linear-gradient( rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url('images/bg.jpg');
+ color: whitesmoke;
+}
+.header{
+ background: linear-gradient( rgba(233, 196, 196, 0.342),rgba(0,0,0,0.3));
+ text-align: center;
+ text-transform: capitalize;
+ height: 15%;
+}
+.para1{
+ text-transform: capitalize;
+ margin: 10px;
+}
+.para1 h2{
+ text-align: center;
+ color: rgb(182, 182, 182);
+}
+.commission{
+ margin: 10px;
+}
+.commission h3{
+ color: rgb(182, 182, 182);
+ text-transform: capitalize;
+ text-align: center;
+}
+.commission img{
+ width:50%;
+ height: auto;
+}
+ .dashboard{
+  text-transform: capitalize;
+  margin: 10px;
+ }
+ .dashboard h1{
+  text-align: center;
+  color: rgb(182, 182, 182);
+ }
+.dashboard img{
+ width:50%;
+}
+.link{
+ text-transform: capitalize;
+ text-align: center;
+}
+.link button{
+ background: paleturquoise;
+ width: 100%;
+ height: 5%;
+}
+.link a{
+ font-weight: bolder;
+ text-decoration: none;
+ color: black;
+}
+hr{
+ width: 30%;
+ border: none;
+ border-top: dotted goldenrod 5px;
+}
+p{
+ font-size: 1.5em;
+}
+h3{
+ font-size: 1.5em;
+}
+.footer{
+ background: linear-gradient( rgba(233, 196, 196, 0.342),rgba(0,0,0,0.3));
+ text-align: center;
+ text-transform: capitalize;
+ height: 15%;
+}
